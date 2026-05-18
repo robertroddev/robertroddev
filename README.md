@@ -7,8 +7,8 @@ Robert Rodriguez | Full Stack Software Engineer
 I'm a full stack engineer with 4+ years building React and Ruby on Rails applications. Currently job searching for remote senior software engineering roles.
 
 **Currently:**
-- 🏠 Available to start immediately (open to remote, hybrid, on-site)
-- 📚 Completing B.S. Computer Science at WGU (expected 2028)
+- Available to start immediately (open to remote, hybrid, on-site)
+- Completing B.S. Computer Science at WGU (expected 2028)
 - Working on an application to help my wife manage her homeschol tasks, hoping to also publish it as a sass app in the future.
 - - Live preview: [homeschool-master-web.vercel.app](https://homeschool-master-web.vercel.app)
 
@@ -33,7 +33,7 @@ I'm a full stack engineer with 4+ years building React and Ruby on Rails applica
 React, Redux, React Native, Expo, JavaScript, TypeScript, HTML5, CSS3, SASS, Jest, Mocha, Chai, Enzyme, React Testing Library, Cypress
 
 **Backend:**
-Ruby on Rails, RSpec, PostgreSQL, Redis, REST APIs, API Development, OAuth 2.0
+Ruby on Rails, RSpec, PostgreSQL, Redis, REST APIs, API Development, OAuth 2.0, Python, Java, Kotlin, Spring Boot
 
 **Cloud & DevOps:**
 AWS, GitHub Actions, CI/CD, Datadog, Git
@@ -41,12 +41,8 @@ AWS, GitHub Actions, CI/CD, Datadog, Git
 **Tools & Practices:**
 Figma, Agile/Scrum, SAFe 6 Practitioner, Section 508 accessibility compliance, WCAG 2.1
 
-**Coursework (Familiar):**
-Python, Java, Kotlin, Spring Boot
-
 **Current Projects:**
-- 🎨 Homeschool Master (React Native + TypeScript)
-- 🐍 Flask/Python API (parallel learning project)
+- Homeschool Master (React Native + TypeScript)
 
 **Certifications:**
 - SAFe 6 Practitioner (expires June 2027)
