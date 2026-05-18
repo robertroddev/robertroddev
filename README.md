@@ -1,6 +1,8 @@
 # Greetings! 👋
 
-Robert Rodriguez | Full Stack Software Engineer
+Robert Rodriguez | Full Stack Software Engineer 
+
+Father of 3 whipper snappers | Skateboard enthusiast | Pizza & sushi lover
 
 📍 [LinkedIn](https://www.linkedin.com/in/robbyrod/)
 
@@ -12,11 +14,11 @@ I went into software engineering field because I have always been good at breaki
 - Completing B.S. Computer Science at WGU (expected 2028)
 - Working on an application to help my wife manage her homeschol tasks, hoping to also publish it as a sass app in the future.
   - Live preview: [homeschool-master-web.vercel.app](https://homeschool-master-web.vercel.app)
-
-> [!NOTE]
-> This is an in-progress build, not the final product. As of 05/18/2026, the only working features are user registration, login, and 
-> logout. The dashboard greets the user with their first and last name retrieved 
-> from the database. 
+    
+    > [!NOTE]
+    > This is an in-progress build, not the final product. As of 05/18/2026, the only working features are user registration, login, and 
+    > logout. The dashboard greets the user with their first and last name retrieved 
+    > from the database. 
 
 
 **Professional Experience:**
@@ -49,6 +51,5 @@ Figma, Agile/Scrum, SAFe 6 Practitioner, Section 508 accessibility compliance, W
 - SAFe 6 Practitioner (expires June 2027)
 - Lambda School Full Stack Web Development & Computer Science (2021)
 
-🛹 Father of 3 | Skateboard enthusiast | Pizza & sushi lover
 
 📬 Ask me about anything — [reach out](https://www.linkedin.com/in/robbyrod/)
