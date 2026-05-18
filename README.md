@@ -4,7 +4,7 @@ Robert Rodriguez | Full Stack Software Engineer
 
 📍 [LinkedIn](https://www.linkedin.com/in/robbyrod/)
 
-I'm a full stack engineer with 4+ years building React and Ruby on Rails applications. Currently job searching for remote senior software engineering roles.
+I'm a full stack engineer with 4+ years building React and Ruby on Rails applications. Currently job searching for remote software engineering roles.
 
 **Currently:**
 - Available to start immediately (open to remote, hybrid, on-site)
