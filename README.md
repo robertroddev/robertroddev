@@ -5,12 +5,13 @@ Robert Rodriguez | Full Stack Software Engineer
 📍 [LinkedIn](https://www.linkedin.com/in/robbyrod/)
 
 I'm a full stack engineer with 4+ years building React and Ruby on Rails applications. Currently job searching for remote software engineering roles.
+I went into software engineering field because I have always been good at breaking complex problems down into smaller parts and coming up with solid solutions that make sense, after doing a lot of searching SWE seemed like the best fit for me and I enjoy it a lot.
 
 **Currently:**
 - Available to start immediately (open to remote, hybrid, on-site)
 - Completing B.S. Computer Science at WGU (expected 2028)
 - Working on an application to help my wife manage her homeschol tasks, hoping to also publish it as a sass app in the future.
-- - Live preview: [homeschool-master-web.vercel.app](https://homeschool-master-web.vercel.app)
+  - Live preview: [homeschool-master-web.vercel.app](https://homeschool-master-web.vercel.app)
 
 > [!NOTE]
 > This is an in-progress build, not the final product. As of 05/18/2026, the only working features are user registration, login, and 
